@@ -16,10 +16,4 @@ Here are some ideas to get you started:
 
 ### Que tal! 👋💻🔭
 
-<details>
-  <summary>Datito</summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmovia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
 
